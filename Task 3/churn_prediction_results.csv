@@ -1,0 +1,7 @@
+Classifier,Accuracy,Precision,Recall,F1-Score,Confusion Matrix
+Logistic Regression,0.8005,0.451612903,0.071246819,0.123076923,"[[1573   34]
+ [ 365   28]]"
+Random Forest,0.868,0.765432099,0.473282443,0.58490566,"[[1550   57]
+ [ 207  186]]"
+Gradient Boosting,0.8655,0.754098361,0.468193384,0.577708006,"[[1547   60]
+ [ 209  184]]"
